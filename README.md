@@ -10,3 +10,5 @@ to accomodate the port number of your postgress
 that is  ~~ spring.datasource.url=jdbc:postgresql://localhost:{{portNumber}}/shipping
 
 lastly create the a table called shipping
+
+run your project
